@@ -14,9 +14,6 @@ PORT_TO = "citra-emu/citra"
 SHORTENED_NAME_FROM = "yuzu"
 ##########################################################
 
-#### Path to the git repo of PORT_TO
-REPO_PATH = "./citra"
-
 module GithubAPI
 def self.post(url, data)
     url = URI.parse("#{GHENDPOINT}#{url}")
