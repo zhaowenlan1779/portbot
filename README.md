@@ -7,8 +7,9 @@ A small bot to port PRs
 * Git
 
 ## Usage
+1. Edit the script to adjust any settings
 1. Make sure you have git and ruby in your PATH
-1. Put this script 
+1. Put this script in the PORT_TO repo
 1. Open shell (Windows: powershell; Linux: bash/sh; macOS: Terminal)
 1. run `ruby ./portbot.rb`
 1. Enjoy!
