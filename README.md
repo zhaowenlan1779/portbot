@@ -14,5 +14,5 @@ A small bot to port PRs
 1. Put this script in the PORT_TO repo
 1. Open shell. Windows: powershell/cmd/WSL Bash (given that you have ruby and git installed there); Linux: bash/sh; macOS: Terminal. Do not use Git bash or MSYS shell. They seem not to work and are super slow running Ruby.
 1. Run `ruby ./portbot.rb`
-1. Enter the PR number you want to port, resolve conflicts if any...
+1. Enter the PR number you want to port, resolve conflicts if any.
 1. Enjoy!
